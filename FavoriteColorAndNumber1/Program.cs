@@ -28,6 +28,7 @@ namespace FavoriteColorAndNumber1
 
 
 
+
     //Class: Program
     //Author: Tyler Amey
     //Purpose Console Read/Write and Exception-handling exercise
