@@ -59,7 +59,7 @@ namespace MadLibs
                                     newWord = newWord.Replace(",", "");
                                     Console.WriteLine(newWord + ":");
                                     string sGiven = Console.ReadLine();
-                                    if(bNewLine == true)
+                                    if (bNewLine == true)
                                     {
                                         resultString = resultString + sGiven;
                                         bNewLine = false;
@@ -69,10 +69,14 @@ namespace MadLibs
                                         resultString = resultString + " " + sGiven;
                                     }
                                 }
-                                else if(word == "\n")
+                                else if (word.Contains($@"\n"))
                                 {
-                                    resultString = resultString + '\n';
+                                    resultString = resultString + "\n";
                                     bNewLine = true;
+                                }
+                                else if (word == "." || word == ",")
+                                {
+                                    resultString = resultString + word;
                                 }
                                 else
                                 {
@@ -81,9 +85,13 @@ namespace MadLibs
                                         resultString = resultString + word;
                                         bNewLine=false;
                                     }
+                                    else if(resultString == "")
+                                    {
+                                        resultString = resultString + word;
+                                    }
                                     else
                                     {
-                                        resultString = resultString + " " + word;
+                                        resultString = resultString + " "+ word;
                                     }
                                 }
                             }
@@ -98,7 +106,7 @@ namespace MadLibs
                         }
                     }
                 }
-                if (sStart == "no")
+                else if (sStart == "no")
                 {
                     bStartTruth = true;
                     Console.WriteLine("Goodbye!");
