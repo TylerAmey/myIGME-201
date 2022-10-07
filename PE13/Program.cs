@@ -113,7 +113,7 @@ namespace PE13
         public string license;
         public string name;
         public int age;
-        public Dog(string name, int age, string license)
+        public Dog(string name, int age, string license):base(name,age)
         {
             this.age = age;
             this.name=name;
@@ -151,7 +151,7 @@ namespace PE13
     {
         public string name;
         public int age;
-        public Cat(string name, int age)
+        public Cat(string Name, int age):base(Name,age)
         {
             this.age = age;
             this.name = name;
@@ -236,11 +236,11 @@ namespace PE13
                     else
                     {
 
-                        thisPet = pets.RemoveAt(rand.Next(1, petCount + 1));
-                        if (thisPet.GetType().Equals(typeof(Dog)))
+                        Pet randomPet = pets[rand.Next(0, pets.Count)];
+                        if (randomPet.GetType().Equals(typeof(Dog)))
                         {
                             int nAction = rand.Next(1, 6);
-                            iDog = (Dog)thisPet;
+                            iDog = (Dog)randomPet;
                             if (nAction == 1)
                             {
                                 iDog.Play();
@@ -265,7 +265,7 @@ namespace PE13
                         else
                         {
                             int nAction = rand.Next(1, 6);
-                            iCat = (Cat)thisPet;
+                            iCat = (Cat)randomPet;
                             if (nAction == 1)
                             {
                                 iCat.Play();
