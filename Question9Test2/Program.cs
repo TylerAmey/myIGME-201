@@ -23,12 +23,18 @@ namespace Question9Test2
         public string drawingInterface;
 
         public abstract void UsePen();
+
+        public virtual int Pixels()
+        {
+            return 0;
+        }
     }
 
     public class DesignWithSoftware : ACreate , IPrepare, IContent
     {
         public string software;
         private string logIn;
+        public int pixelCount;
 
         public string LogIn
         {
@@ -45,9 +51,50 @@ namespace Question9Test2
             throw new NotImplementedException();
         }
 
-        public virtual void GetMaterials()
+        public void GetMaterials()
         {
             Console.WriteLine("Getting Software");
+        }
+        public override int Pixels()
+        {
+            return this.pixelCount;
+        }
+
+        public override void UsePen()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class DesignWithPaper : ACreate, IPrepare, IContent
+    {
+        public string software;
+        private string logIn;
+        public int pixelCount;
+
+        public string LogIn
+        {
+            get { return logIn; }
+        }
+
+        public bool Copyright()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void FindContent()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void GetMaterials()
+        {
+            Console.WriteLine("Getting Software");
+        }
+
+        public override void UsePen()
+        {
+            throw new NotImplementedException();
         }
     }
 }
