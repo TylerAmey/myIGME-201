@@ -6,10 +6,21 @@ using System.Threading.Tasks;
 
 namespace fart
 {
-    internal class Program
+    public sealed class Circus
     {
-        static void Main(string[] args)
+        public string name;
+    }
+
+
+    static class Program
+    {
+        static void Main()
         {
+
+            Circus myCircus = new Circus();
+            myCircus.name = "Joe";
+            Console.WriteLine(myCircus.name);
         }
     }
+
 }

@@ -97,4 +97,32 @@ namespace Question9Test2
             throw new NotImplementedException();
         }
     }
+
+    public class questionTen
+    {
+        public static void MyMeathod(object obj)
+        {
+            IPrepare prepare = null;
+            IContent content = null;
+            DesignWithPaper paper = null;
+            DesignWithSoftware software = null;
+
+            if (obj.GetType() == paper.GetType())
+            {
+                prepare = (DesignWithPaper)obj;
+                prepare.GetMaterials();
+
+                content = (DesignWithPaper)obj;
+                content.FindContent();
+            }
+            if (obj.GetType() == software.GetType())
+            {
+                prepare = (DesignWithSoftware)obj;
+                prepare.GetMaterials();
+
+                content = (DesignWithSoftware)obj;
+                content.FindContent();
+            }
+        }
+    }
 }
