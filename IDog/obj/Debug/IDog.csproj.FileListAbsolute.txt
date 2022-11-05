@@ -1,0 +1,6 @@
+C:\Users\tyler\source\repos\myIGME-201\IDog\bin\Debug\IDog.dll
+C:\Users\tyler\source\repos\myIGME-201\IDog\bin\Debug\IDog.pdb
+C:\Users\tyler\source\repos\myIGME-201\IDog\obj\Debug\IDog.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\IDog\obj\Debug\IDog.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\IDog\obj\Debug\IDog.dll
+C:\Users\tyler\source\repos\myIGME-201\IDog\obj\Debug\IDog.pdb

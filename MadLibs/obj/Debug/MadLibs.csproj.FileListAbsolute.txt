@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\tyler\source\repos\myIGME-201\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\tyler\source\repos\myIGME-201\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\tyler\source\repos\myIGME-201\MadLibs\obj\Debug\MadLibs.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\MadLibs\obj\Debug\MadLibs.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\tyler\source\repos\myIGME-201\MadLibs\obj\Debug\MadLibs.pdb

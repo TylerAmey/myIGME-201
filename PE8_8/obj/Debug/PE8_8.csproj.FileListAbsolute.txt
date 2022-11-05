@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\PE8_8\bin\Debug\PE8_8.exe.config
+C:\Users\tyler\source\repos\myIGME-201\PE8_8\bin\Debug\PE8_8.exe
+C:\Users\tyler\source\repos\myIGME-201\PE8_8\bin\Debug\PE8_8.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE8_8\obj\Debug\PE8_8.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE8_8\obj\Debug\PE8_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PE8_8\obj\Debug\PE8_8.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PE8_8\obj\Debug\PE8_8.exe
+C:\Users\tyler\source\repos\myIGME-201\PE8_8\obj\Debug\PE8_8.pdb

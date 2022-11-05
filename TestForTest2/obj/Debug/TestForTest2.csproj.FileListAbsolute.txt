@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\TestForTest2\bin\Debug\TestForTest2.exe.config
+C:\Users\tyler\source\repos\myIGME-201\TestForTest2\bin\Debug\TestForTest2.exe
+C:\Users\tyler\source\repos\myIGME-201\TestForTest2\bin\Debug\TestForTest2.pdb
+C:\Users\tyler\source\repos\myIGME-201\TestForTest2\obj\Debug\TestForTest2.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\TestForTest2\obj\Debug\TestForTest2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\TestForTest2\obj\Debug\TestForTest2.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\TestForTest2\obj\Debug\TestForTest2.exe
+C:\Users\tyler\source\repos\myIGME-201\TestForTest2\obj\Debug\TestForTest2.pdb

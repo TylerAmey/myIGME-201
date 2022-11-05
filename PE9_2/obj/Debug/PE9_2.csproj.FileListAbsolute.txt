@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\PE9_2\bin\Debug\PE9_2.exe.config
+C:\Users\tyler\source\repos\myIGME-201\PE9_2\bin\Debug\PE9_2.exe
+C:\Users\tyler\source\repos\myIGME-201\PE9_2\bin\Debug\PE9_2.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE9_2\obj\Debug\PE9_2.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE9_2\obj\Debug\PE9_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PE9_2\obj\Debug\PE9_2.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PE9_2\obj\Debug\PE9_2.exe
+C:\Users\tyler\source\repos\myIGME-201\PE9_2\obj\Debug\PE9_2.pdb

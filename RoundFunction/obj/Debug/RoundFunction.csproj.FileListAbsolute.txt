@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\RoundFunction\bin\Debug\RoundFunction.exe.config
+C:\Users\tyler\source\repos\myIGME-201\RoundFunction\bin\Debug\RoundFunction.exe
+C:\Users\tyler\source\repos\myIGME-201\RoundFunction\bin\Debug\RoundFunction.pdb
+C:\Users\tyler\source\repos\myIGME-201\RoundFunction\obj\Debug\RoundFunction.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\RoundFunction\obj\Debug\RoundFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\RoundFunction\obj\Debug\RoundFunction.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\RoundFunction\obj\Debug\RoundFunction.exe
+C:\Users\tyler\source\repos\myIGME-201\RoundFunction\obj\Debug\RoundFunction.pdb

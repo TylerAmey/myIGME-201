@@ -1,0 +1,3 @@
+C:\Users\tyler\source\repos\myIGME-201\Schedule\obj\Debug\Schedule.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\Schedule\obj\Debug\Schedule.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\Schedule\obj\Debug\Schedule.csproj.CoreCompileInputs.cache

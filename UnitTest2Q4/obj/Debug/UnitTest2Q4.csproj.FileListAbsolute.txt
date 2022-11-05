@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\UnitTest2Q4\bin\Debug\UnitTest2Q4.exe.config
+C:\Users\tyler\source\repos\myIGME-201\UnitTest2Q4\bin\Debug\UnitTest2Q4.exe
+C:\Users\tyler\source\repos\myIGME-201\UnitTest2Q4\bin\Debug\UnitTest2Q4.pdb
+C:\Users\tyler\source\repos\myIGME-201\UnitTest2Q4\obj\Debug\UnitTest2Q4.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\UnitTest2Q4\obj\Debug\UnitTest2Q4.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\UnitTest2Q4\obj\Debug\UnitTest2Q4.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\UnitTest2Q4\obj\Debug\UnitTest2Q4.exe
+C:\Users\tyler\source\repos\myIGME-201\UnitTest2Q4\obj\Debug\UnitTest2Q4.pdb

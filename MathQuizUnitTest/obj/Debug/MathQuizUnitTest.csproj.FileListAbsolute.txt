@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\MathQuizUnitTest\bin\Debug\MathQuizUnitTest.exe.config
+C:\Users\tyler\source\repos\myIGME-201\MathQuizUnitTest\bin\Debug\MathQuizUnitTest.exe
+C:\Users\tyler\source\repos\myIGME-201\MathQuizUnitTest\bin\Debug\MathQuizUnitTest.pdb
+C:\Users\tyler\source\repos\myIGME-201\MathQuizUnitTest\obj\Debug\MathQuizUnitTest.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\MathQuizUnitTest\obj\Debug\MathQuizUnitTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\MathQuizUnitTest\obj\Debug\MathQuizUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\MathQuizUnitTest\obj\Debug\MathQuizUnitTest.exe
+C:\Users\tyler\source\repos\myIGME-201\MathQuizUnitTest\obj\Debug\MathQuizUnitTest.pdb

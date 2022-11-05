@@ -1,0 +1,3 @@
+C:\Users\tyler\source\repos\myIGME-201\PE14\obj\Debug\PE14.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE14\obj\Debug\PE14.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PE14\obj\Debug\PE14.csproj.CoreCompileInputs.cache

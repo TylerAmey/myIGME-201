@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\PE5_7\bin\Debug\PE5_7.exe.config
+C:\Users\tyler\source\repos\myIGME-201\PE5_7\bin\Debug\PE5_7.exe
+C:\Users\tyler\source\repos\myIGME-201\PE5_7\bin\Debug\PE5_7.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE5_7\obj\Debug\PE5_7.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE5_7\obj\Debug\PE5_7.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PE5_7\obj\Debug\PE5_7.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PE5_7\obj\Debug\PE5_7.exe
+C:\Users\tyler\source\repos\myIGME-201\PE5_7\obj\Debug\PE5_7.pdb

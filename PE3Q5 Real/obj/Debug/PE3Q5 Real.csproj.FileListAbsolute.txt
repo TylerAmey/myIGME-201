@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\PE3Q5 Real\obj\Debug\PE3Q5 Real.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE3Q5 Real\obj\Debug\PE3Q5 Real.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PE3Q5 Real\obj\Debug\PE3Q5 Real.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PE3Q5 Real\bin\Debug\PE3Q5 Real.exe.config
+C:\Users\tyler\source\repos\myIGME-201\PE3Q5 Real\bin\Debug\PE3Q5 Real.exe
+C:\Users\tyler\source\repos\myIGME-201\PE3Q5 Real\bin\Debug\PE3Q5 Real.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE3Q5 Real\obj\Debug\PE3Q5 Real.exe
+C:\Users\tyler\source\repos\myIGME-201\PE3Q5 Real\obj\Debug\PE3Q5 Real.pdb

@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\PE4\bin\Debug\PE4.exe.config
+C:\Users\tyler\source\repos\myIGME-201\PE4\bin\Debug\PE4.exe
+C:\Users\tyler\source\repos\myIGME-201\PE4\bin\Debug\PE4.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE4\obj\Debug\PE4.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE4\obj\Debug\PE4.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PE4\obj\Debug\PE4.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PE4\obj\Debug\PE4.exe
+C:\Users\tyler\source\repos\myIGME-201\PE4\obj\Debug\PE4.pdb

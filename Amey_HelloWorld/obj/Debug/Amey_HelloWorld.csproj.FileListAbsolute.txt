@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\Amey_HelloWorld\bin\Debug\Amey_HelloWorld.exe.config
+C:\Users\tyler\source\repos\myIGME-201\Amey_HelloWorld\bin\Debug\Amey_HelloWorld.exe
+C:\Users\tyler\source\repos\myIGME-201\Amey_HelloWorld\bin\Debug\Amey_HelloWorld.pdb
+C:\Users\tyler\source\repos\myIGME-201\Amey_HelloWorld\obj\Debug\Amey_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\Amey_HelloWorld\obj\Debug\Amey_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\Amey_HelloWorld\obj\Debug\Amey_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\Amey_HelloWorld\obj\Debug\Amey_HelloWorld.exe
+C:\Users\tyler\source\repos\myIGME-201\Amey_HelloWorld\obj\Debug\Amey_HelloWorld.pdb

@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\PE6\bin\Debug\PE6.exe.config
+C:\Users\tyler\source\repos\myIGME-201\PE6\bin\Debug\PE6.exe
+C:\Users\tyler\source\repos\myIGME-201\PE6\bin\Debug\PE6.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE6\obj\Debug\PE6.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE6\obj\Debug\PE6.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PE6\obj\Debug\PE6.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PE6\obj\Debug\PE6.exe
+C:\Users\tyler\source\repos\myIGME-201\PE6\obj\Debug\PE6.pdb

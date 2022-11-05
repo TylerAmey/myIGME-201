@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\fart\bin\Debug\fart.exe.config
+C:\Users\tyler\source\repos\myIGME-201\fart\bin\Debug\fart.exe
+C:\Users\tyler\source\repos\myIGME-201\fart\bin\Debug\fart.pdb
+C:\Users\tyler\source\repos\myIGME-201\fart\obj\Debug\fart.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\fart\obj\Debug\fart.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\fart\obj\Debug\fart.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\fart\obj\Debug\fart.exe
+C:\Users\tyler\source\repos\myIGME-201\fart\obj\Debug\fart.pdb

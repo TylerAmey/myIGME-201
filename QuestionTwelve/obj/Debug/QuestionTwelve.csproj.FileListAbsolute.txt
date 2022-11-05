@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\QuestionTwelve\bin\Debug\QuestionTwelve.exe.config
+C:\Users\tyler\source\repos\myIGME-201\QuestionTwelve\bin\Debug\QuestionTwelve.exe
+C:\Users\tyler\source\repos\myIGME-201\QuestionTwelve\bin\Debug\QuestionTwelve.pdb
+C:\Users\tyler\source\repos\myIGME-201\QuestionTwelve\obj\Debug\QuestionTwelve.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\QuestionTwelve\obj\Debug\QuestionTwelve.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\QuestionTwelve\obj\Debug\QuestionTwelve.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\QuestionTwelve\obj\Debug\QuestionTwelve.exe
+C:\Users\tyler\source\repos\myIGME-201\QuestionTwelve\obj\Debug\QuestionTwelve.pdb

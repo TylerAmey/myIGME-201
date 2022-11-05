@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\QuestionThirteen\bin\Debug\QuestionThirteen.exe.config
+C:\Users\tyler\source\repos\myIGME-201\QuestionThirteen\bin\Debug\QuestionThirteen.exe
+C:\Users\tyler\source\repos\myIGME-201\QuestionThirteen\bin\Debug\QuestionThirteen.pdb
+C:\Users\tyler\source\repos\myIGME-201\QuestionThirteen\obj\Debug\QuestionThirteen.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\QuestionThirteen\obj\Debug\QuestionThirteen.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\QuestionThirteen\obj\Debug\QuestionThirteen.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\QuestionThirteen\obj\Debug\QuestionThirteen.exe
+C:\Users\tyler\source\repos\myIGME-201\QuestionThirteen\obj\Debug\QuestionThirteen.pdb

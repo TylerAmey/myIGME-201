@@ -1,0 +1,11 @@
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\bin\Debug\MyDerivedClass.exe.config
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\bin\Debug\MyDerivedClass.exe
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\bin\Debug\MyDerivedClass.pdb
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\bin\Debug\MyClass1.dll
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\bin\Debug\MyClass1.pdb
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\obj\Debug\MyDerivedClass.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\obj\Debug\MyDerivedClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\obj\Debug\MyDerivedClass.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\obj\Debug\MyDerivedClass.csproj.CopyComplete
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\obj\Debug\MyDerivedClass.exe
+C:\Users\tyler\source\repos\myIGME-201\MyDerivedClass\obj\Debug\MyDerivedClass.pdb

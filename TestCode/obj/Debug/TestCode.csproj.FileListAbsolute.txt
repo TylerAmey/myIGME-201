@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\TestCode\bin\Debug\TestCode.exe.config
+C:\Users\tyler\source\repos\myIGME-201\TestCode\bin\Debug\TestCode.exe
+C:\Users\tyler\source\repos\myIGME-201\TestCode\bin\Debug\TestCode.pdb
+C:\Users\tyler\source\repos\myIGME-201\TestCode\obj\Debug\TestCode.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\TestCode\obj\Debug\TestCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\TestCode\obj\Debug\TestCode.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\TestCode\obj\Debug\TestCode.exe
+C:\Users\tyler\source\repos\myIGME-201\TestCode\obj\Debug\TestCode.pdb

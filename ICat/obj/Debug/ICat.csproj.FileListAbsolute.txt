@@ -1,0 +1,6 @@
+C:\Users\tyler\source\repos\myIGME-201\ICat\bin\Debug\ICat.dll
+C:\Users\tyler\source\repos\myIGME-201\ICat\bin\Debug\ICat.pdb
+C:\Users\tyler\source\repos\myIGME-201\ICat\obj\Debug\ICat.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\ICat\obj\Debug\ICat.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\ICat\obj\Debug\ICat.dll
+C:\Users\tyler\source\repos\myIGME-201\ICat\obj\Debug\ICat.pdb

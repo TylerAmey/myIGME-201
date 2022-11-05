@@ -1,0 +1,8 @@
+C:\Users\tyler\source\repos\myIGME-201\NumberSorterUnitTest\bin\Debug\NumberSorterUnitTest.exe.config
+C:\Users\tyler\source\repos\myIGME-201\NumberSorterUnitTest\bin\Debug\NumberSorterUnitTest.exe
+C:\Users\tyler\source\repos\myIGME-201\NumberSorterUnitTest\bin\Debug\NumberSorterUnitTest.pdb
+C:\Users\tyler\source\repos\myIGME-201\NumberSorterUnitTest\obj\Debug\NumberSorterUnitTest.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\NumberSorterUnitTest\obj\Debug\NumberSorterUnitTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\NumberSorterUnitTest\obj\Debug\NumberSorterUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\NumberSorterUnitTest\obj\Debug\NumberSorterUnitTest.exe
+C:\Users\tyler\source\repos\myIGME-201\NumberSorterUnitTest\obj\Debug\NumberSorterUnitTest.pdb

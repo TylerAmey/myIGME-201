@@ -1,0 +1,6 @@
+C:\Users\tyler\source\repos\myIGME-201\MyClass1\bin\Debug\MyClass1.dll
+C:\Users\tyler\source\repos\myIGME-201\MyClass1\bin\Debug\MyClass1.pdb
+C:\Users\tyler\source\repos\myIGME-201\MyClass1\obj\Debug\MyClass1.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\MyClass1\obj\Debug\MyClass1.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\MyClass1\obj\Debug\MyClass1.dll
+C:\Users\tyler\source\repos\myIGME-201\MyClass1\obj\Debug\MyClass1.pdb
