@@ -1,0 +1,11 @@
+C:\Users\tyler\source\repos\myIGME-201\test\bin\Debug\test.exe.config
+C:\Users\tyler\source\repos\myIGME-201\test\bin\Debug\test.exe
+C:\Users\tyler\source\repos\myIGME-201\test\bin\Debug\test.pdb
+C:\Users\tyler\source\repos\myIGME-201\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\test\obj\Debug\test.Form1.resources
+C:\Users\tyler\source\repos\myIGME-201\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\test\obj\Debug\test.exe
+C:\Users\tyler\source\repos\myIGME-201\test\obj\Debug\test.pdb

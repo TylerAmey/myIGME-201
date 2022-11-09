@@ -1,0 +1,9 @@
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\bin\Debug\PE20Dom.dll
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\bin\Debug\PE20Dom.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\obj\Debug\PE20Dom.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\obj\Debug\PE20Dom.UserControl1.resources
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\obj\Debug\PE20Dom.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\obj\Debug\PE20Dom.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\obj\Debug\PE20Dom.dll
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\obj\Debug\PE20Dom.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE20Dom\obj\Debug\PE20Dom.csproj.SuggestedBindingRedirects.cache

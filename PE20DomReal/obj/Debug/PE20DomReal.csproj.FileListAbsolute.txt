@@ -1,0 +1,11 @@
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\bin\Debug\PE20DomReal.exe.config
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\bin\Debug\PE20DomReal.exe
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\bin\Debug\PE20DomReal.pdb
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\obj\Debug\PE20DomReal.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\obj\Debug\PE20DomReal.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\obj\Debug\PE20DomReal.Form1.resources
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\obj\Debug\PE20DomReal.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\obj\Debug\PE20DomReal.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\obj\Debug\PE20DomReal.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\obj\Debug\PE20DomReal.exe
+C:\Users\tyler\source\repos\myIGME-201\PE20DomReal\obj\Debug\PE20DomReal.pdb
