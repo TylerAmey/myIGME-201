@@ -1,0 +1,12 @@
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\bin\Debug\ParametersForm.exe.config
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\bin\Debug\ParametersForm.exe
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\bin\Debug\ParametersForm.pdb
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.Form1.resources
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.GameForm.resources
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.exe
+C:\Users\tyler\source\repos\myIGME-201\ParametersForm\obj\Debug\ParametersForm.pdb
