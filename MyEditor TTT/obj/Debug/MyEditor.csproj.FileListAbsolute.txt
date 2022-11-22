@@ -1,0 +1,22 @@
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\obj\Debug\MyEditor.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\obj\Debug\MyEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\obj\Debug\MyEditor.Form1.resources
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\obj\Debug\MyEditor.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\obj\Debug\MyEditor.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\obj\Debug\MyEditor.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\bin\Debug\MyEditor.exe.config
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\bin\Debug\MyEditor.exe
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\bin\Debug\MyEditor.pdb
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\obj\Debug\MyEditor.exe
+C:\Users\tyler\source\repos\myIGME-201\MyEditor\obj\Debug\MyEditor.pdb
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\obj\Debug\MyEditor.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\obj\Debug\MyEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\obj\Debug\MyEditor.Form1.resources
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\obj\Debug\MyEditor.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\obj\Debug\MyEditor.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\obj\Debug\MyEditor.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\obj\Debug\MyEditor.exe
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\obj\Debug\MyEditor.pdb
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\bin\Debug\MyEditor.exe.config
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\bin\Debug\MyEditor.exe
+C:\Users\tyler\source\repos\myIGME-201\MyEditor TTT\bin\Debug\MyEditor.pdb

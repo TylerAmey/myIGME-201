@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace MyEditor
 {
@@ -31,9 +32,16 @@ namespace MyEditor
             this.mSSansSerifToolStripMenuItem.Click += new EventHandler(MSSansSerifToolStripMenuItem_Click);
             this.timesNewRomanToolStripMenuItem.Click += new EventHandler(TimesNewRomanToolStripMenuItem_Click);
 
-            this.toolStrip1.ItemClicked += new ToolStripItemClickedEventHandler(ToolStip_ItemClick);
+            this.testToolStripButton.Click += new EventHandler(TestToolStripButton_Click);
+
+            this.toolStrip1.ItemClicked += new ToolStripItemClickedEventHandler(ToolStrip_ItemClick);
 
             this.richTextBox1.SelectionChanged += new EventHandler(RichTextBox_SelectionChanged);
+
+            this.countDownLabel.Visible = false;
+
+            this.timer.Tick += new EventHandler(Timer_Tick);
+
 
             this.Text = "MyEditor";
         }
@@ -94,7 +102,7 @@ namespace MyEditor
             richTextBox1.Paste();
         }
 
-        private void ToolStip_ItemClick(object sender, ToolStripItemClickedEventArgs e)
+        private void ToolStrip_ItemClick(object sender, ToolStripItemClickedEventArgs e)
         {
             FontStyle fontStyle = FontStyle.Regular;
 
@@ -157,6 +165,40 @@ namespace MyEditor
             }
 
             this.richTextBox1.SelectionFont = newFont;
+        }
+
+        private void TestToolStripButton_Click(object sender, EventArgs e)
+        {
+            this.timer.Interval = 500;
+            this.toolStripProgressBar1.Value = 60;
+
+            this.countDownLabel.Text = "3";
+            this.countDownLabel.Visible = true;
+            this.richTextBox1.Visible = false;
+
+            for(int i = 3; i > 0; --i)
+            {
+                this.countDownLabel.Text = i.ToString();
+                this.Refresh();
+                Thread.Sleep(1000);
+            }
+            this.countDownLabel.Visible = false;
+            this.richTextBox1.Visible = true;
+
+            this.timer.Start();
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            --this.toolStripProgressBar1.Value;
+            if(this.toolStripProgressBar1.Value == 0)
+            {
+                this.timer.Stop();
+
+                string performance = "Congrats, you typed " + Math.Round(this.richTextBox1.TextLength / 30.0, 2) + " letters per second!";
+
+                MessageBox.Show(performance);
+            } 
         }
 
         private void BoldToolStripMenuItem_Click(object sender, EventArgs e)
@@ -239,7 +281,16 @@ namespace MyEditor
 
 
 
+
+
+
+
         private void toolStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
