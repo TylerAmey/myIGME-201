@@ -1,0 +1,13 @@
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\bin\Debug\GIFFinder.exe.config
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\bin\Debug\GIFFinder.exe
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\bin\Debug\GIFFinder.pdb
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.GIFFinder.resources
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.SearchForm.resources
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.ImageForm.resources
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.exe
+C:\Users\tyler\source\repos\myIGME-201\GIFFinder\obj\Debug\GIFFinder.pdb
