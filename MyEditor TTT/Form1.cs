@@ -13,18 +13,24 @@ namespace MyEditor
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        public Form1(MyEditorMDIApplication myEditorParent)
         {
             InitializeComponent();
-            this.newToolStripMenuItem.Click += new EventHandler(NewToolStripMenuItem_Click);
-            this.openToolStripMenuItem.Click += new EventHandler(OpenToolStripMenuItem_Click);
-            this.saveToolStripMenuItem.Click += new EventHandler(SaveToolStripMenuItem_Click);
-            this.exitToolStripMenuItem.Click += new EventHandler(ExitToolStripMenuItem_Click);
 
-            this.copyToolStripMenuItem.Click += new EventHandler(CopyToolStripMenuItem_Click);
-            this.cutToolStripMenuItem.Click += new EventHandler(CutToolStripMenuItem_Click);
-            this.pasteToolStripMenuItem.Click += new EventHandler(PasteToolStripMenuItem_Click);
+            this.MdiParent = myEditorParent;
 
+
+            /*
+                        this.newToolStripMenuItem.Click += new EventHandler(NewToolStripMenuItem_Click);*/
+            myEditorParent.openToolStripMenuItem.Click += new EventHandler(OpenToolStripMenuItem_Click);
+            myEditorParent.saveToolStripMenuItem.Click += new EventHandler(SaveToolStripMenuItem_Click);
+            /*this.exitToolStripMenuItem.Click += new EventHandler(ExitToolStripMenuItem_Click);
+*/
+            myEditorParent.copyToolStripMenuItem.Click += new EventHandler(CopyToolStripMenuItem_Click);
+            myEditorParent.cutToolStripMenuItem.Click += new EventHandler(CutToolStripMenuItem_Click);
+            myEditorParent.pasteToolStripMenuItem.Click += new EventHandler(PasteToolStripMenuItem_Click);
+
+            myEditorParent.closeAllToolStripMenuItem.Click += new EventHandler(CloseAllToolStripMenuItem_Click);
             this.boldToolStripMenuItem.Click += new EventHandler(BoldToolStripMenuItem_Click);
             this.italicsToolStripMenuItem.Click += new EventHandler(ItalicsToolStripMenuItem_Click);
             this.underlineToolStripMenuItem.Click += new EventHandler(UnderlineToolStripMenuItem_Click);
@@ -44,6 +50,27 @@ namespace MyEditor
 
 
             this.Text = "MyEditor";
+
+            this.FormClosing += new FormClosingEventHandler(Form1_FormClosing);
+        }
+
+        private void Form1_FormClosing(object sender, EventArgs e)
+        {
+            MyEditorMDIApplication myEditorParent = (MyEditorMDIApplication)this.MdiParent;
+            myEditorParent.openToolStripMenuItem.Click -= new EventHandler(OpenToolStripMenuItem_Click);
+            myEditorParent.saveToolStripMenuItem.Click -=new EventHandler(SaveToolStripMenuItem_Click);
+            /*this.exitToolStripMenuItem.Click += new EventHandler(ExitToolStripMenuItem_Click);
+*/
+            myEditorParent.copyToolStripMenuItem.Click-=new EventHandler(CopyToolStripMenuItem_Click);
+            myEditorParent.cutToolStripMenuItem.Click-=new EventHandler(CutToolStripMenuItem_Click);
+            myEditorParent.pasteToolStripMenuItem.Click -= new EventHandler(PasteToolStripMenuItem_Click);
+
+            myEditorParent.closeAllToolStripMenuItem.Click -= new EventHandler(CloseAllToolStripMenuItem_Click);
+        }
+
+        private void CloseAllToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
 
         private void NewToolStripMenuItem_Click(object sender, EventArgs e)
@@ -54,6 +81,10 @@ namespace MyEditor
 
         private void OpenToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            if(this.MdiParent.ActiveMdiChild != this)
+            {
+                return;
+            }
             if( openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 RichTextBoxStreamType richTextBoxStreamType = new RichTextBoxStreamType();
@@ -69,6 +100,10 @@ namespace MyEditor
 
         private void SaveToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            if (this.MdiParent.ActiveMdiChild != this)
+            {
+                return;
+            }
             saveFileDialog.FileName = openFileDialog1.FileName;
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
@@ -89,16 +124,28 @@ namespace MyEditor
 
         private void CopyToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            if (this.MdiParent.ActiveMdiChild != this)
+            {
+                return;
+            }
             richTextBox1.Copy();
         }
 
         private void CutToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            if (this.MdiParent.ActiveMdiChild != this)
+            {
+                return;
+            }
             richTextBox1.Cut();
         }
 
         private void PasteToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            if (this.MdiParent.ActiveMdiChild != this)
+            {
+                return;
+            }
             richTextBox1.Paste();
         }
 
