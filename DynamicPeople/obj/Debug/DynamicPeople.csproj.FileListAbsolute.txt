@@ -1,0 +1,6 @@
+C:\Users\tyler\source\repos\myIGME-201\DynamicPeople\obj\Debug\DynamicPeople.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\DynamicPeople\obj\Debug\DynamicPeople.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\DynamicPeople\obj\Debug\DynamicPeople.Form1.resources
+C:\Users\tyler\source\repos\myIGME-201\DynamicPeople\obj\Debug\DynamicPeople.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\DynamicPeople\obj\Debug\DynamicPeople.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\DynamicPeople\obj\Debug\DynamicPeople.csproj.CoreCompileInputs.cache
