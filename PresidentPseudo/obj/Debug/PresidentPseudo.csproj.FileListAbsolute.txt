@@ -1,0 +1,11 @@
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\bin\Debug\PresidentPseudo.exe.config
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\bin\Debug\PresidentPseudo.exe
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\bin\Debug\PresidentPseudo.pdb
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\obj\Debug\PresidentPseudo.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\obj\Debug\PresidentPseudo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\obj\Debug\PresidentPseudo.Presidents.resources
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\obj\Debug\PresidentPseudo.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\obj\Debug\PresidentPseudo.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\obj\Debug\PresidentPseudo.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\obj\Debug\PresidentPseudo.exe
+C:\Users\tyler\source\repos\myIGME-201\PresidentPseudo\obj\Debug\PresidentPseudo.pdb
