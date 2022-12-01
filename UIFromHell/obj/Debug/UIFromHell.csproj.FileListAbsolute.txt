@@ -1,0 +1,13 @@
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\bin\Debug\UIFromHell.exe.config
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\bin\Debug\UIFromHell.exe
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\bin\Debug\UIFromHell.pdb
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.StartForm.resources
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.GameForm.resources
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.EndForm.resources
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.Properties.Resources.resources
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.exe
+C:\Users\tyler\source\repos\myIGME-201\UIFromHell\obj\Debug\UIFromHell.pdb

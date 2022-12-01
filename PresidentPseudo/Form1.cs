@@ -240,7 +240,7 @@ namespace PresidentPseudo
             {
                 webBrowser.Url = new Uri("https://en.m.wikipedia.org/wiki/John_F_Kennedy");
                 webGroupBox.Text = "https://en.m.wikipedia.org/wiki/John_F_Kennedy";
-               pictureBox.ImageLocation = @"C:\Users\tyler\Presidents\JohnFKennedy.jpeg";
+                pictureBox.ImageLocation = @"C:\Users\tyler\Presidents\JohnFKennedy.jpeg";
             }
             else if (this.mcKinleyRadioButton.Checked)
             {
