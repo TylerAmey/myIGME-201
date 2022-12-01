@@ -76,8 +76,8 @@ namespace UIFromHell
             //Chooses the first letter
             ChooseLetter();
             //initialze the timer and progress bar
-            this.timer.Interval = 500;
-            this.toolStripProgressBar1.Value = 50;
+            this.timer.Interval = 1000;
+            this.toolStripProgressBar1.Value = 100;
             timer.Start();
         }
 
