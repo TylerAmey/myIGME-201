@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net.NetworkInformation;
 using System.Runtime.CompilerServices;
@@ -8,6 +9,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 using static FinalExam.MyStack;
+using Newtonsoft.Json;
 
 namespace FinalExam
 {
@@ -182,13 +184,6 @@ namespace FinalExam
             do
             {
                 prioQueue.Sort();
-/*
-                prioQueue = prioQueue.OrderBy(nodeOrderBy).ToList();
-                prioQueue = prioQueue.OrderBy(delegate (Node n) { return n.minCostToStart; }).ToList();
-                prioQueue = prioQueue.OrderBy((Node n) => { return n.minCostToStart; }).ToList();
-                prioQueue = prioQueue.OrderBy((n) => { return n.minCostToStart; }).ToList();
-                prioQueue = prioQueue.OrderBy((n) => n.minCostToStart).ToList();
-                prioQueue = prioQueue.OrderBy(n => n.minCostToStart).ToList();*/
 
                 Node node = prioQueue.First();
                 prioQueue.Remove(node);
@@ -221,6 +216,46 @@ namespace FinalExam
             } while (prioQueue.Any());
 
         }
+        //Number 6
+        public class Player
+        {
+            public string player_name;
+            public int level;
+            public int hp;
+            public List<string> inventory;
+            public string license_key;
+
+            private Player()
+            {
+
+            }
+
+            private static Player instance = new Player();
+
+            public static Player GetInstance()
+            {
+                return instance;
+            }
+
+            public void OpenPlayerFile(string filename)
+            {
+                StreamReader input = new StreamReader(filename);
+                string sInput = input.ReadToEnd();
+                input.Close();
+
+                instance = JsonConvert.DeserializeObject<Player>(sInput);
+            }
+
+            public void WritePlayerFile(string filename)
+            {
+                string sOutput = JsonConvert.SerializeObject(instance);
+
+                StreamWriter output = new StreamWriter(filename);
+                output.Write(sOutput);
+                output.Close();
+
+            }
+        }
 
         //Number 9
         class DelegateFunctions
@@ -231,11 +266,16 @@ namespace FinalExam
                 // create variable of delegate function type 
                 MyRounder myRounder;
 
+                // your code here
+
+
                 myRounder = new MyRounder(delegate (double d, int n) { return Math.Round(d, n); });
 
                 myRounder += delegate (double d, int n) { return Math.Round(d, n); };
 
-                myRounder += (double d, int n) =>{ return Math.Round(d, n); };
+                myRounder += (double d, int n) => { return Math.Round(d, n); };
+
+                myRounder += (double d, int n) => Math.Round(d, n);
 
                 myRounder += (d, n) => { return Math.Round(d, n); };
 
@@ -245,7 +285,9 @@ namespace FinalExam
 
                 myRounder += Math.Round;
 
-                // your code here
+                myRounder += new MyRounder(new Func<double, int, double>((double d, int n) => { return Math.Round(d, n); }));
+
+                myRounder += new MyRounder(new Func<double, int, double>(Math.Round));
             }
         }
 
