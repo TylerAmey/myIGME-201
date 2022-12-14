@@ -10,6 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static FinalExam.MyStack;
 using Newtonsoft.Json;
+using static FinalExam.MyStack.Program;
 
 namespace FinalExam
 {
@@ -257,41 +258,6 @@ namespace FinalExam
             }
         }
 
-        //Number 9
-        class DelegateFunctions
-        {
-            public delegate double MyRounder(double d, int n);
-            static void Main(string[] args)
-            {
-                // create variable of delegate function type 
-                MyRounder myRounder;
-
-                // your code here
-
-
-                myRounder = new MyRounder(delegate (double d, int n) { return Math.Round(d, n); });
-
-                myRounder += delegate (double d, int n) { return Math.Round(d, n); };
-
-                myRounder += (double d, int n) => { return Math.Round(d, n); };
-
-                myRounder += (double d, int n) => Math.Round(d, n);
-
-                myRounder += (d, n) => { return Math.Round(d, n); };
-
-                myRounder += (d, n) => Math.Round(d, n);
-
-                myRounder += new MyRounder(Math.Round);
-
-                myRounder += Math.Round;
-
-                myRounder += new MyRounder(new Func<double, int, double>((double d, int n) => { return Math.Round(d, n); }));
-
-                myRounder += new MyRounder(new Func<double, int, double>(Math.Round));
-            }
-        }
-
-
         internal class Program
         {
             //Number 4
@@ -360,6 +326,9 @@ namespace FinalExam
                 /*green*/ null
             };
 
+            //Problem 9
+            public delegate double MyRounder(double d, int n);
+
             static void Main(string[] args)
             {
                 //Problem 4
@@ -390,6 +359,32 @@ namespace FinalExam
                 {
                     Console.Write(n.nState.ToString() + " ");
                 }
+
+
+                //Problem 9
+                MyRounder myRounder;
+
+                // your code here
+
+                myRounder = new MyRounder(delegate (double d, int n) { return Math.Round(d, n); });
+
+                myRounder += delegate (double d, int n) { return Math.Round(d, n); };
+
+                myRounder += (double d, int n) => { return Math.Round(d, n); };
+
+                myRounder += (double d, int n) => Math.Round(d, n);
+
+                myRounder += (d, n) => { return Math.Round(d, n); };
+
+                myRounder += (d, n) => Math.Round(d, n);
+
+                myRounder += new MyRounder(Math.Round);
+
+                myRounder += Math.Round;
+
+                myRounder += new MyRounder(new Func<double, int, double>((double d, int n) => { return Math.Round(d, n); }));
+
+                myRounder += new MyRounder(new Func<double, int, double>(Math.Round));
             }
         }
     }

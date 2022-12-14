@@ -14,3 +14,6 @@ C:\Users\tyler\source\repos\myIGME-201\FinalExam\obj\Debug\FinalExam.pdb
 C:\Users\tyler\source\repos\myIGME-201\FinalExam\bin\Debug\FinalExam.exe.config
 C:\Users\tyler\source\repos\myIGME-201\FinalExam\bin\Debug\FinalExam.exe
 C:\Users\tyler\source\repos\myIGME-201\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\tyler\source\repos\myIGME-201\FinalExam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tyler\source\repos\myIGME-201\FinalExam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tyler\source\repos\myIGME-201\FinalExam\obj\Debug\FinalExam.csproj.CopyComplete
